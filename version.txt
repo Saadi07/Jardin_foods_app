@@ -1,0 +1,3 @@
+Lastest Version: 1 
+Changes made in  customer and product name colors change color to black for user name and calendar
+User can now search product with barcode and UOM is applied respective to its barcode.
